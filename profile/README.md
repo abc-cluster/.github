@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="mark-dark.svg">
-    <img alt="abc-cluster" src="mark-light.svg" width="220">
+    <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
+    <img alt="abc-cluster" src="hero-light.svg" width="200">
   </picture>
 </p>
 
